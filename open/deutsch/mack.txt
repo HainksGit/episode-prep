@@ -1,6 +1,7 @@
 Input von:
 - @teamtimanfaya
 - @Habrok42
+- @Hainks_Tweets
 
 
 
@@ -48,6 +49,9 @@ Vorschriften und Prüfung
   - wiederkehrend bei stationären
   - wiederkehrend bei mobilen
 
+* Überprüfung bei fliegenden Bauten (Volkfeste)
+	 - Wie prüft man zuverlässig tausende Verbindungselemente?
+   - Gibt es dazu Sensoren / Diagnose?
 
 
 Konstruktionsalternativen
@@ -115,6 +119,10 @@ Konstruktionsalternativen
 
 Entwicklung
 ----------------------------------------------
+* Kundenanforderungen
+  - Was sind die wesentlichen Vorgaben, die die Kunden machen? 
+  - Werden Beschleunigungen, Geschwindigkeiten, Rekorde ins Lastenheft geschrieben?
+
 * Unterschiedlichkeit
   - Komplette Einzelstücke
   - Gleiche Technik, unterschiedliche Strecken
@@ -156,5 +164,6 @@ Outlook
 
 * Belastungsgrenzen für die Gäste
 
-  
+* Ersatz (oder Ergänzung) von Fahrten durch VR plus stationäre Bewegung?
+
 
